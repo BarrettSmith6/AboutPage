@@ -1,0 +1,25 @@
+.header {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom:;
+}
+
+.photo {
+    max-width: 100%;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+.paragraph {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
